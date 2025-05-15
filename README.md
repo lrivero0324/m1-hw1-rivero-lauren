@@ -4,7 +4,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 - - - - 
 # My First Coding Assignment
 
-![My Personality](https://tenor.com/view/computer-cat-working-type-typing-gif-7817705 "This image represents me")
+![My Personality](https://c.tenor.com/8wBCqZH60U8AAAAd/tenor.gif "This image represents me")
 
 ## About Me
 
